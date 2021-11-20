@@ -22,4 +22,4 @@ def main_page():
 
 
 if __name__ == "__main__":
-    app.run(port = 1488)
+    app.run(port = 80)
